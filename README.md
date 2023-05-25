@@ -4,6 +4,6 @@ My name is Oudom and I'm a computer science student from Cambodia. Here's some i
 
 Interests:
 
-Web development
-AI
-Data Science
+Web development \n
+AI\n
+Data Science\n
